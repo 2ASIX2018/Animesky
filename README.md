@@ -22,3 +22,4 @@ Aquí podremos ver como tendremos en un diseño nuestra pagina web
 La pagina normal sera la que vea un usuario que no sea registrado
 La pagina para usuarios registrados  podrán ver todo los mismo que un usuario normal
 La pagina web podrá ver estadísticas de la web , y ademas de poder añadir y borrar informacion
+
