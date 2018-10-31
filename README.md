@@ -3,7 +3,7 @@
 Este proyecto es de la asignatura de IAW( Implantación de Aplicaciones Wev) , dada por nuestro tutor Alfredo,en este proyecto los editores del material serán jonhathan  y vicent. Este proyecto para explicaros es  una enciclopedia de series de anime donde los usuarios podrán ver información de dichas series y de sus personajes.
 
 
-##Usuarios
+## Usuarios
 
 
 
