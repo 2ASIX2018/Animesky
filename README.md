@@ -23,11 +23,9 @@ La pagina normal sera la que vea un usuario que no sea registrado
 La pagina para usuarios registrados  podrán ver todo los mismo que un usuario normal
 La pagina web podrá ver estadísticas de la web , y ademas de poder añadir y borrar informacion
 
-## Estado
+## Preview
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-4-col-portfolio/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-4-col-portfolio.svg)](https://www.npmjs.com/package/startbootstrap-4-col-portfolio)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-4-col-portfolio.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-4-col-portfolio)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-4-col-portfolio/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-4-col-portfolio)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-4-col-portfolio/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-4-col-portfolio?type=dev)
+[![4 Col Portfolio Preview](https://startbootstrap.com/assets/img/templates/4-col-portfolio.jpg)](https://blackrockdigital.github.io/startbootstrap-4-col-portfolio/)
+
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-4-col-portfolio/)**
 
