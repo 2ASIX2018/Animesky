@@ -23,7 +23,7 @@ La pagina normal sera la que vea un usuario que no sea registrado
 La pagina para usuarios registrados  podrán ver todo los mismo que un usuario normal
 La pagina web podrá ver estadísticas de la web , y ademas de poder añadir y borrar informacion
 
-## Preview
+## Vista previa
 
 [![4 Col Portfolio Preview](https://startbootstrap.com/assets/img/templates/4-col-portfolio.jpg)](https://blackrockdigital.github.io/startbootstrap-4-col-portfolio/)
 
