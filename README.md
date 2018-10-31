@@ -24,7 +24,7 @@ La pagina para usuarios registrados  podrán ver todo los mismo que un usuario n
 La pagina web podrá ver estadísticas de la web , y ademas de poder añadir y borrar informacion
 
 
-![Base de datos](base\de\datos.png)
+![Base de datos](2ASIX2018/Animesky//base\de\datos.png)
 
 
 ## Vista previa
