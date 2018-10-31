@@ -10,8 +10,7 @@ Este proyecto es de la asignatura de IAW( Implantación de Aplicaciones Wev) , d
 
 En esta pagina web podremos ser diferentes usuarios  , cada usuario tendrá unas determinadas acciones  para poder interinar en nuestra pagina web 
 
-|                                      Tipos de usuarios |Permisos                        |
-|----------------|-------------------------------|-----------------------------|
+|                                      Tipos de us
 |Usuario simple|Podrá ver la pagina web pero sin poder añadir información            |
 |Usuario Registrado  |Podrá añadir información al proyecto       |
 |Administrador    |Tendrá el control  absoluto de la pagina podrá añadir borrar..etc|
