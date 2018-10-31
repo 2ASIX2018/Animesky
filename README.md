@@ -23,7 +23,7 @@ La pagina normal sera la que vea un usuario que no sea registrado
 La pagina para usuarios registrados  podrán ver todo los mismo que un usuario normal
 La pagina web podrá ver estadísticas de la web , y ademas de poder añadir y borrar informacion
 
-
+## Esquema EER de la base de datos
 ![Base de datos](/base.png)
 
 
