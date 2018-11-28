@@ -1,28 +1,21 @@
 <html>
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<!-- Title Page -->	
-	<title>Registro de cuenta</title>
+	<body>
+<div class="registro">
+<h1>Registro</h1>
+<br>
+<FORM METHOD="POST" ACTION="registro.php">
+Nombre<br>
+<INPUT TYPE="TEXT" NAME"nombre"><br>Contraseña
+<br>
+<INPUT TYPE="PASSWORD" NAME="contraseña"><br>
+<INPUT TYPE="SUBMIT" value="Insertar">		
+</FORM>
 
-	<!-- CSS -->
-	<link rel="stylesheet" href="4-col-portfolio.css">	
+</div>
+
+	</body>
 </head>
-<body>
-	<div id="container">
-		<form>
-			<!-- Username -->
-			<label for="name">Nombre de usuario:</label>
-			<input type="name">
-			<!-- Password -->
-			<label for="username">Contraseña:</label>
-			<input type="password">
-			<div id="lower">
-				<!-- Submit Button -->
-                <input type="submit" value="Registrarse">
-				<input type="button" value="Volver al inicio" onClick="window.location = 'index.php';">
-			</div>
-		</form>		
-	</div>
-</body>
+
+
 </html>
