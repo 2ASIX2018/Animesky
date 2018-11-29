@@ -1,3 +1,6 @@
+<html>
+<body background="ultra.png">
+
 <div class="row" >
        <?php
 
@@ -17,12 +20,17 @@
               <p class="card-text"><?php echo ($capitols[$i]["Numcap"]); ?></p>
               <h4 class="card-title"> <?php echo( $capitols[$i]["Valoracio"]);?></h4>
     </div>
+    </div>
+    <a href="index.php">Torna</a>
+    </div>
     <?php 
           } 
         }
          
         ?>
 </div>
+</html>
+
     
 
     
